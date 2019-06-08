@@ -1,1 +1,1 @@
-# gs-rest-service
+# ws rest spring + spring boot
