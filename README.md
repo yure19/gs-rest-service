@@ -1,1 +1,1 @@
-# RESTfull spring boot
+# RESTful spring boot
